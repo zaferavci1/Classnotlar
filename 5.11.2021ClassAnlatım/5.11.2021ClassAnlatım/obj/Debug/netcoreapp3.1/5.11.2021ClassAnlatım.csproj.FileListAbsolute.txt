@@ -1,0 +1,14 @@
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\bin\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.exe
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\bin\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.deps.json
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\bin\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.runtimeconfig.json
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\bin\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.runtimeconfig.dev.json
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\bin\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.dll
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\bin\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.pdb
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.csproj.AssemblyReference.cache
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.AssemblyInfoInputs.cache
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.AssemblyInfo.cs
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.csproj.CoreCompileInputs.cache
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.dll
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.pdb
+C:\Users\mains\source\repos\5.11.2021ClassAnlatım\5.11.2021ClassAnlatım\obj\Debug\netcoreapp3.1\5.11.2021ClassAnlatım.genruntimeconfig.cache
