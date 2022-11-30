@@ -11,7 +11,7 @@ namespace _5._11._2021ClassAnlatım
         public string EMail{ get; set; }
         public string Password { get; set; }
         public string PhoneNumber { get; set; }
-
+        merhaba ben zafer fork deneme
 
     }
 }
